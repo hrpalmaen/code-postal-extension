@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Postal code location",
+    "description": "popo extension",
+    "version": "1.0",
+    "action": {
+        "default_icon": "icon2.png",
+        "default_popup": "popup.html"
+    }
+}

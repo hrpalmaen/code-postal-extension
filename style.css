@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+.header {
+    background-color: rgb(202, 211, 160);
+    height: 20px;
+    color: beige;
+    font-size: 1rem;
+}
+.text-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.margin-top {
+    padding-top: 0.3rem;
+}
